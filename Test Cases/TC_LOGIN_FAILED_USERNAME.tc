@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LOGIN_FAILED_USERNAME</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>255d2bee-15fc-4280-8b01-ef7d5293b753</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d51c48e9-c597-400f-b0dd-4dab39d65f64</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('data_success')</defaultValue>
+      <description></description>
+      <id>d51c48e9-c597-400f-b0dd-4dab39d65f64</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

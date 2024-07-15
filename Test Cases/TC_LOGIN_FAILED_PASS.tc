@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LOGIN_FAILED_PASS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec87225e-11a7-4c98-af54-505fed9bb3b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ce0cc83-9b14-42ab-9c24-16604523f142</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('data_success')</defaultValue>
+      <description></description>
+      <id>9ce0cc83-9b14-42ab-9c24-16604523f142</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
